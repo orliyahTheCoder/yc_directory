@@ -40,8 +40,7 @@ Follow these steps to set up the project locally on your machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/orliyahTheCoder/your-repo-name.git](https://github.com/orliyahTheCoder/yc_directory.git)
-cd your-repo-name
+git clone https://github.com/orliyahTheCoder/yc_directory.git
 
 npm install
 # or
